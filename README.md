@@ -1,7 +1,7 @@
 ### Hi! I'm Nayara Bernardo
 
 - 🔭 I’m currently work with Data Engineering Jr.
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Python, SQL and AWS
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm in the process of career migration
 

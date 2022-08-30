@@ -1,3 +1,6 @@
+![capa_github](https://github.com/nayyarabernardo/nayyarabernardo/blob/main/Nay%20Github.jpg?raw=true)
+<!--![counter](https://enxp7tl7m11xqsi.m.pipedream.net?color=blueviolet) -->
+
 ### Hi! I'm Nayara Bernardo
 
 - 🔭 I’m currently work with Data Engineering Jr.

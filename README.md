@@ -8,21 +8,12 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm in the process of career migration
 
-<div align="center">
-  <a href="https://github.com/nayyarabernardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayyarabernardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayyarabernardo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 </div>
 <div style="display: inline_block"><br>
 <img align="center" alt="Nay-Python" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Nay-sql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-</div>
 <img align="center" alt="Nay-sql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-</div>
 <img align="center" alt="Nay-sql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
-</div>
 <img align="center" alt="Nay-sql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
 </div>
 

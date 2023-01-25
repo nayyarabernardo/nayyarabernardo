@@ -21,7 +21,7 @@
 <img align="center" alt="Nay-sql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
 <img align="center" alt="Nay-sql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
 </div>
- - SQL  - Pandas - Apache Spark - Data Storytelling - Git -  Linux
+ - SQL  - Pandas - Apache Spark - Git -  Linux
 ---
 
 ## Contact

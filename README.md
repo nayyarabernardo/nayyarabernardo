@@ -13,14 +13,16 @@
   - PySpark
   - Keras
   - TensorFlow
-  - PyTorch
 
- 
----
+
+## About Me
+
+Engenheira de Dados Jr. com conhecimentos em Python e SQL e em serviços de nuvem como GCP e AWS, experiência em ferramentas de ETL, como Apache Airflow e Apache Beam e habilidade em modelagem de dados; 
+
 
 ## Skills
 
-</div>
+
 <div style="display: inline_block"><br>
 <img align="center" alt="Nay-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Nay-gcp" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
@@ -33,7 +35,6 @@
 </div>
 
 ## Contact
-
 
 <div> 
  <a href="https://www.gitshowcase.com/nayyarabernardo" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white" target="_blank"></a> 	

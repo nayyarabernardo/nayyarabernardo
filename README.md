@@ -3,9 +3,17 @@
 ![capa_github](https://github.com/nayyarabernardo/nayyarabernardo/blob/main/Nay%20Github.jpg?raw=true)
 <!--![counter](https://enxp7tl7m11xqsi.m.pipedream.net?color=blueviolet) -->
 
-
-- 📓 Atualmente curso Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: she/her
+- 🌱 I’m currently learning ...
+  - AWS Cloud
+  - Databricks
+  - Azure
+  - Snowflake
+  - Power BI
+  - PySpark
+  - Keras
+  - TensorFlow
+  - PyTorch
 
  
 ---

@@ -11,7 +11,7 @@
   - Snowflake
   - Power BI
   - PySpark
-  - Keras
+  - dbt
   - TensorFlow
 
 

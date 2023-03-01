@@ -3,18 +3,6 @@
 ![capa_github](https://github.com/nayyarabernardo/nayyarabernardo/blob/main/Nay%20Github.jpg?raw=true)
 <!--![counter](https://enxp7tl7m11xqsi.m.pipedream.net?color=blueviolet) -->
 
-- 😄 Pronouns: she/her
-- 🌱 I’m currently learning ...
-  - AWS Cloud
-  - Databricks
-  - Azure
-  - Snowflake
-  - Power BI
-  - PySpark
-  - dbt
-  - TensorFlow
-
-
 ## About Me
 
 Engenheira de Dados Jr. com conhecimentos em Python e SQL e em serviços de nuvem como GCP e AWS, experiência em ferramentas de ETL, como Apache Airflow e Apache Beam e habilidade em modelagem de dados; 

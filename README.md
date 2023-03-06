@@ -47,8 +47,9 @@ Engenheira de Dados Jr. com conhecimentos em Python e SQL e em serviços de nuve
 
 ## Metrics
 
-<p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayyarabernardo&show_icons=true&theme=omni&hide=contribs,prs)</p> 
-<p>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayyarabernardo&layout=compact&theme=omni)</p> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayyarabernardo&show_icons=true&theme=omni&hide=contribs,prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayyarabernardo&layout=compact&theme=omni)
 
 
 

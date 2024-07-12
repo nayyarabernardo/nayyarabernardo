@@ -5,7 +5,7 @@
 
 ## About Me
 
-Engenheira de Dados Jr. com conhecimentos em Python e SQL e em serviços de nuvem como GCP e AWS, experiência em ferramentas de ETL, como Apache Airflow e Apache Beam e habilidade em modelagem de dados; 
+Engenheira de Dados com conhecimentos em Python e SQL e em serviços de nuvem como GCP e AWS, experiência em ferramentas de ETL, como Apache Airflow e Apache Beam e habilidade em modelagem de dados; 
 
 
 ## Skills

@@ -5,8 +5,7 @@
 
 ## About Me
 
-Engenheira de Dados com conhecimentos em Python e SQL e em serviços de nuvem como GCP e AWS, experiência em ferramentas de ETL, como Apache Airflow e Apache Beam e habilidade em modelagem de dados; 
-
+Hi there! I'm a Data Engineer and I love working with Python and SQL. I have experience with cloud services like GCP, and I've had a lot of fun using ETL tools like Apache Airflow and Apache Beam. I'm also passionate about data modeling. 
 
 ## Skills
 
